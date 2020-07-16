@@ -173,6 +173,6 @@ Module['FS_createPath']('/Phisischeanimation/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 109, "filename": "/UE4CommandLine.txt"}, {"start": 109, "audio": 0, "end": 49499125, "filename": "/Phisischeanimation/Content/Paks/Phisischeanimation-HTML5.pak"}], "remote_package_size": 49499125, "package_uuid": "988fbc7f-8906-41fa-b13c-688b409b9226"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 109, "filename": "/UE4CommandLine.txt"}, {"start": 109, "audio": 0, "end": 49502228, "filename": "/Phisischeanimation/Content/Paks/Phisischeanimation-HTML5.pak"}], "remote_package_size": 49502228, "package_uuid": "73f7bd88-5e40-4d49-aceb-c99e4514d0b4"});
 
 })();
